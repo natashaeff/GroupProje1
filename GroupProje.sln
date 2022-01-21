@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "project\project.csproj", "{B304A367-9304-45B2-BA23-ACBA2A170379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project 2", "project 2\project 2.csproj", "{7203C2CF-38F5-4075-A466-127C86784B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddtoCart", "AddtoCart\AddtoCart.csproj", "{F39682CA-EDB6-4A85-ADFC-9F0D6B448825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B304A367-9304-45B2-BA23-ACBA2A170379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B304A367-9304-45B2-BA23-ACBA2A170379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B304A367-9304-45B2-BA23-ACBA2A170379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B304A367-9304-45B2-BA23-ACBA2A170379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7203C2CF-38F5-4075-A466-127C86784B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7203C2CF-38F5-4075-A466-127C86784B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7203C2CF-38F5-4075-A466-127C86784B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7203C2CF-38F5-4075-A466-127C86784B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39682CA-EDB6-4A85-ADFC-9F0D6B448825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39682CA-EDB6-4A85-ADFC-9F0D6B448825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39682CA-EDB6-4A85-ADFC-9F0D6B448825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39682CA-EDB6-4A85-ADFC-9F0D6B448825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD95711-B31C-4CE3-84BB-6D8DB8DCBC68}
+	EndGlobalSection
+EndGlobal
